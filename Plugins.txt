@@ -1,0 +1,1024 @@
+*unofficial skyrim special edition patch.esp
+*Skyrim Project Optimization - Full Version.esm
+*unofficial skyrim creation club content patch.esl
+*Dismembering Framework.esm
+*FISS.esp
+*Landscape and Water Fixes.esp
+*Lanterns Of Skyrim II.esm
+*LegacyoftheDragonborn.esm
+*Lightened Skyrim - merged.esp
+*RealisticWaterTwo - Resources.esm
+*BIRDS.esl
+*Whiterun Has Walls.esm
+*AnimatedShips.esl
+*AKSkyrimUnderground.esm
+*arnima.esm
+*BSAssets.esm
+*BSHeartland.esm
+*BS_DLC_patch.esp
+*Campfire.esm
+*Falskaar.esm
+*MorrowindCreatures.esl
+*Phenderix Magic World.esm
+*Whiterun Has Walls - Navmeshed.esm
+*Chanterelle World.esp
+*Vigilant.esm
+*1wraiths.esl
+*KittySpellPack01.esl
+*Gray Fox Cowl.esm
+*1NDArmor.esl
+*RU_CityTreesSE_WhiterunLanterns.esl
+*Astral.esl
+*Ghostlight.esl
+*DragonAttacks.esl
+*Dragon Slayer.esl
+*Wyrmstooth.esp
+*Vominheim.esm
+*1Markynaz.esl
+*1WR.esl
+*1HSS.esl
+*1IvoryBow.esl
+*1YsmirArmorSE.esl
+*1AncArgArm.esl
+*1FlutedArmor.esl
+*1NamelessSaber.esl
+*Aero.esl
+*AnimatedCarriage.esm
+*AncientBloodII.esl
+*Supernova.esl
+*Experience.esl
+*EnchantmentArtExtender.esl
+*HSResources.esl
+*WizardingTraversal.esl
+*Kanjs - Harkon Katana.esl
+*kcf.esm
+*LOTD Skill Trees.esp
+*TrueHUD.esl
+*UHDAP - en2.esp
+*UHDAP - en3.esp
+*UHDAP - en4.esp
+*___BlockAngleFix.esl
+*Icebloom.esl
+*UHDAP - en0.esp
+*UHDAP - en1.esp
+*MayaBunny.esl
+*UHDAP - MusicHQ.esp
+*TES4WaitMenu.esl
+*NoRecoil.esm
+*ShootingStars.esp
+*TES4LockpickMenu.esl
+*StormCalling.esl
+*StridingSiltStrider.esl
+*Tamrielic Distribution.esp
+*SkyUI_SE.esp
+*Reverb and Ambiance Overhaul - Skyrim.esp
+*Obsidian Weathers.esp
+*SMIM-SE-Merged-All.esp
+*simpleCarriageExpansion.esp
+*s6o6t Lore - Oblivion Gates.esp
+Alternate Start - Live Another Life_WACCF_Patch.esp
+*EnhancedLightsandFX.esp
+*Fabled Forests.esp
+*ChanterelleNVM.esp
+*ELFX - Exteriors.esp
+*DepthsOfSkyrim.esp
+*ELFX Fixes.esp
+*JKs Skyrim.esp
+*LegacyoftheDragonborn0.esp
+*Folkstead.esp
+*VisualAnimatedEnchants2023.esp
+*Ark of Chanterelle.esp
+*Summermyst - Enchantments of Skyrim.esp
+*Skyrim Immersive Creatures Special Edition.esp
+*JK's Fort Dawnguard.esp
+*MysticismMagic.esp
+*JK's Dark Brotherhood Sanctuary.esp
+*JK's Understone Keep.esp
+*High Level Enemies Redux.esp
+*HSPlayerHomes - Honeyside.esp
+*High Level Enemies Redux - Placed NPCs and Quests.esp
+*JK's The Bards College.esp
+*Bandit War.esp
+*Locked Chests Have Keys.esp
+*LoS II - JKs Skyrim patch.esp
+*Jehanna.esp
+*JK's Castle Dour.esp
+*JK's Blue Palace.esp
+*Snazzy Interiors - Riften Black-Briar Manor.esp
+*AKSkyrimUnderground_AddOn.esp
+*SeranaDialogAddon.esp
+*JK's The Winking Skeever.esp
+*JK's Temple of the Divines.esp
+*Hand Placed Enemies.esp
+*JK's Sky Haven Temple.esp
+*Immersive Encounters.esp
+*Strongholds - Narzulbur.esp
+*Kynes Hunt - Quest for Chanterelle.esp
+*JK's Arnleif and Sons Trading Company.esp
+*AVExpansion.esp
+*JK's Temple of Mara.esp
+*Strongholds - Largashbur.esp
+Gorgeous Giant Camp Compilation - FuzzBeed's Giant Camps.esp
+*Man Those Borders!.esp
+*JK's Temple of Dibella.esp
+*JK's The Hag's Cure.esp
+*WyvernRock.esp
+*MoonAndStar_MAS.esp
+*Strongholds - Mor Khazgur.esp
+*Khajiit Has Tents.esp
+*OwnCivilWar.esp
+*Nordic Ruins of Skyrim.esp
+*Hothtrooper44_ArmorCompilation.esp
+*Guard Dialogue Overhaul.esp
+*Weapons Armor Clothing & Clutter Fixes.esp
+*YOT - Your Own Thoughts.esp
+*VisualAnimatedEnchants2-023 - WACCF Patch.esp
+*Weapon Armor Attribute Tweaks.esp
+*iNeed.esp
+*iNeed - Extended.esp
+*Realm of Lorkhan - Custom Alternate Start - Choose your own adventure.esp
+*JK's Sinderion's Field Laboratory.esp
+*Comprehensive_Falskaar_Fixes.esp
+*JKs Sky Haven Temple - JKs Skyrim Patch.esp
+*Strongholds - Dushnikh Yal 2.0.esp
+*959MarkerRessource.esp
+*JK's Dragonsreach.esp
+*JK's Silver-Blood Inn.esp
+*Skyrim On Skooma.esp
+*Hidden Hideouts of Skyrim - Merged.esp
+*JK's Bee and Barb.esp
+*BetterQuestObjectives.esp
+*BusyFollowerFramework.esp
+*Ryn's Saarthal.esp
+*CFTO.esp
+*Whiterun Has Walls - JK's Skyrim Patch.esp
+*Wintersun - Faiths of Skyrim.esp
+*Lit Road Signs.esp
+*man_DaedricShrines.esp
+*DiverseDragonsCollectionSE.esp
+*JKs Bards College - ELFX patch.esp
+*Whiterun Has Walls - ELFX Exteriors Patch.esp
+*SkyrimSewers.esp
+*The Brotherhood of Old.esp
+*JK's Riverwood Trader.esp
+*WayshrinesIFT.esp
+*Stave Churches - All.esp
+*Ryn's Bleakwind Basin.esp
+*JK's Radiant Raiment.esp
+*Unmarked Locations Pack.esp
+*Cloaks.esp
+*OBIS SE.esp
+*Unique Border Gates - Fixes.esp
+*Cults of Skyrim.esp
+*Immersive Weapons.esp
+Ryn's Crabber's Shanty.esp
+*mihailcczombies.esp
+*018Auri.esp
+*Dwarfsphere.esp
+*Ryn's White River Watch.esp
+*Tamrielic Distribution - Dead Man's Dread.esp
+*Relationship Dialogue Overhaul.esp
+*Inigo.esp
+*DragonsUseThuum.esp
+*ZedUnlimitedWeaponEnchant.esp
+*DeadlyDragons.esp
+*Tamrielic Distribution - BS Cyrodiil.esp
+*BSHeartland - Unofficial Patch.esp
+*JKs Temple of the Divines - ELFX Patch.esp
+*UniqueBorderGates-All.esp
+*WZOblivionArtifacts.esp
+*DBM_OblivionArtifacts_Patch.esp
+*Ryn's Robber's Gorge.esp
+*JK's Sleeping Giant Inn.esp
+*Oblivion Gates Remade.esp
+*Song of the Green's fancy Pod.esp
+*JK's The Ragged Flagon.esp
+*Whiterun Has Walls - Exterior City Entrance.esp
+*JK's Septimus Signus's Outpost.esp
+*JK's Bits and Pieces.esp
+*Apothecary.esp
+*WACCF_Survival Mode_Patch.esp
+*Immersive Hunting Overhaul.esp
+*mihailfrogs.esp
+*ACatsLife.esp
+*LoS II - Lantern Workers.esp
+*Otters.esp
+*Behemoths.esp
+*JK's Warmaiden's.esp
+*Yngvild - A Buried Past.esp
+*OneHand_Crossbow_Framework.esp
+*Tamrielic Distribution - Vigil Enforcer Armor.esp
+*Immersive Weapons_WACCF_Patch.esp
+*Tamrielic Distribution - Crossbow Collection.esp
+*1Ogres.esp
+*Innocence Lost - Quest Expansion.esp
+*LoS II - ELFX patch.esp
+*SofiaFollower.esp
+*DBM_AHO_Patch.esp
+*DBM_IW_Patch.esp
+*DBM_Wyrmstooth_Patch.esp
+*DBM_Vigilant_Patch.esp
+*mihailccgoblins.esp
+*Ryn's Mzulft Foothills.esp
+*ADogsLife.esp
+*ValtheimKeepRecovered.esp
+*Eli_Druid Home.esp
+*Ducks_and_Swans.esp
+*Infiltration - Quest Expansion.esp
+*SSKDynamicSkyrimDocks.esp
+SSKDSD - JKsSolitudeOutskirts.esp
+*HamvirDustman.esp
+*Ryn's Azura's Shrine.esp
+*Dimorphodons.esp
+*Immersive Patrols II.esp
+*JKs Sky Haven Temple - ELFX Patch.esp
+*PistolMod.esp
+*Silver Bolts.esp
+Silver Bolts - Glorious Fort Dawnguard.esp
+*JKs Castle Dour - ELFX Patch.esp
+*HandgunsOfSkyrim.esp
+*OBIS WACCF Patch.esp
+*Lawless - WACCF - Patch.esp
+*OneHand_Crossbow_Framework - Lore Friendly Guns of Skyrim Patch.esp
+Bandit War - OWL.esp
+BetterQuestObjectives-AFTPatch.esp
+BetterQuestObjectives-AlternateStartPatch.esp
+JKs Angelines Aromatics - ELFX patch.esp
+*C.O.I.N.esp
+*SpellResearch.esp
+*Manbeast.esp
+*know_your_enemy2.esp
+*MoreWerewolves.esp
+*BookOfPerkPoints.esp
+*CFTO-JK-Patch.esp
+*Sorcerer.esp
+*Raptors.esp
+*Memorable Bounties - Witcher Inspired Quests.esp
+*WyvernRockHearthfire.esp
+*Landscape and Water Fixes - Patch - Tundra Homested.esp
+*mihailesobonecolossus.esp
+*Summermyst - WACCF Patch.esp
+*CC-FearsomeFists_WACCF_Patch.esp
+*DBM_WACCF_Patch.esp
+*TradeRoutes.esp
+*Whiterun Has Walls - Exterior City Entrance - JK's Skyrim Patch.esp
+*Landscape and Water Fixes - Patch - Farming.esp
+*TheOnlyCureQuestExpansion.esp
+*Destroy the Dark Brotherhood - Quest Expansion.esp
+*CWRepairs.esp
+*Reasonable Silver Hand.esp
+*MarshLeviathans.esp
+*Ryn's Anise's Cabin.esp
+*Ryn's Bleakfalls Tower.esp
+*mihaildraugrpatrols.esp
+*Triumvirate - Mage Archetypes.esp
+*DBM_ELFXExteriors_Patch.esp
+*DBM_JKSkyrim_Patch.esp
+*s6o6t Lore - Dark Anchors Ruins and Dolmens.esp
+*mihailcliffracer.esp
+*man_DaedricShrines_Wintersun_Patch.esp
+*College Of Winterhold - Quest Expansion.esp
+*YOT - Survival Mode.esp
+*Convenient Horses.esp
+*DBM_Wintersun_Patch.esp
+*DBM_MAS_Patch.esp
+*SSKDSD - JK's Skyrim.esp
+*LeapsOfFaith.esp
+*mihailseaturtle.esp
+*Ryn's Witchmist Slope.esp
+*Missives.esp
+*ForgottenCity.esp
+*solitudeloft.esp
+JKs Belethors General Goods - ELFX Patch.esp
+JKs Belethors General Goods - Rugnarok patch.esp
+JKs Pawned Prawn - ELFX Patch.esp
+JKs Pawned Prawn - Rugnarok patch.esp
+*JKs Arnleif and Sons - ELFX Patch.esp
+*JKs Hags Cure - ELFX Patch.esp
+*JKs Radiant Raiment - ELFX Patch.esp
+*JKs Riverwood Trader - ELFX patch.esp
+*StoreDoorbells.esp
+JKs Arcadias Cauldron - ELFX Patch.esp
+JKs Arcadias Cauldron - USSEP Patch.esp
+JKs Arcadias Cauldron - Bow of Shadows Patch.esp
+DBM_JKArcadia_Patch.esp
+JKs College of Winterhold - WACCF patch.esp
+JKs College of Winterhold - LOTD Patch.esp
+*SSKDSD - AnimatedShips.esp
+*Skyfall Sleeping Tree Overhaul.esp
+*1CCkoronefollowerss.esp
+*Hothtrooper44_Armor_Ecksstra.esp
+*FlyDrag.esp
+*GG's Impoverished Vanilla Whiterun.esp
+*GrandPaladinSE.esp
+*LokirsTaintedTomb.esp
+*stonhenge + hilltops.esp
+*Ryn's Bonestrewn Flats.esp
+*JKs The Drunken Huntsman.esp
+*DogsJarls.esp
+*Unmarked Locations Pack - Soul Cairn.esp
+*Zerofrost Ultimate Armor Collection.esp
+*Unmarked Locations Pack - Solstheim.esp
+*the paarthurnax dilemma.esp
+*mihailstormgolem.esp
+*Artifact of Might.esp
+*Feathered Tyrannosaurids.esp
+*BSHeartland - Arnima Patch.esp
+*Birbwalker21_Plesiosaurs.esp
+*Ryn's Shimmermist Hills.esp
+*Ryn's Bloodlet Peaks.esp
+*mihailogrim.esp
+*Darkend.esp
+Falskaar - Bug Fixes.esp
+*JKs Sinderions Field Laboratory - CC - Fishing patch.esp
+*CFTO_Bittercup_JKs_Skyrim_Patch.esp
+*Caught Red Handed - Quest Expansion.esp
+*DBM_BeyondReach_Patch.esp
+*DBM_TheGrayCowlofNocturnal_Patch.esp
+*DBM_Falskaar_Patch.esp
+*DBM_CloaksofSkyrim_Patch.esp
+*DBM_TheBrotherhoodOfOldPatch_OAP.esp
+*mihailcrystalgolem.esp
+*JKs Sinderions Field Laboratory - ELFX patch.esp
+*mihailesocenturion.esp
+*BleakFallsReCovered.esp
+*mihailcrabshell.esp
+*Blubbos_NewWhiterun_2022.esp
+*TwinbladesOfSkyrim.esp
+*Lucien.esp
+*LoS II - LotD patch.esp
+*JKs Skyrim_RWT_Patch.esp
+*Ryn's Rorikstead Resurrection.esp
+*mihailbantamguar.esp
+*mihailmudcrabmerchant.esp
+*Hydra.esp
+*DBM_JKBluePalace_Patch.esp
+*JKs Blue Palace - JKs Skyrim - LOTD Patch.esp
+*CFTO-Lanterns.esp
+*mihailwhalebones.esp
+*mihailnordicsentinel.esp
+*mihailatmoranremains.esp
+*DBM_iNeed_Patch.esp
+*Man Those Borders! - HendraheimCC Patch.esp
+*sightseer_stones.esp
+*Ryn's Kynesgrove Burial Mound.esp
+Khajiit Has Tents - Alt Start - Patch.esp
+*ACLine_Whiterun.esp
+*DBM_Missives_Patch.esp
+*Solitude Back Door.esp
+*Ryn's Bilegulch Ridge.esp
+*Ryn's Great Henge Resurrection.esp
+*Ryn's Evergreen Woods.esp
+Khajiit Has Tents - JK's Windhelm Outskirts - Patch.esp
+*EnhancedAtronachs.esp
+*CFTO-CoveredCarriages.esp
+*JKs Sleeping Giant Inn - ELFX Fixes Patch.esp
+*The Whispering Door - Quest Expansion.esp
+*Equippable Tomes.esp
+*Seline_Ysolda_replacer.esp
+*Riften_Bathhouse.esp
+*Ryn's Reachwater Pass.esp
+*BeyondSkyrimMerchant.esp
+*Eli_InigoBloodchillPatch.esp
+*LoS II - SMIM patch.esp
+*Whiterun Has Walls - Lanterns of Skyrim II Patch.esp
+*Seline_follower.esp
+*Ryn's Labyrinthian Peaks.esp
+*Ryn's Ragnvald Vale.esp
+*Ryn's Autumnshade Woods.esp
+Fabled Forests - JK's Riverfall Cottage Patch.esp
+JKs Bannered Mare - ELFX patch.esp
+JKs Bannered Mare - SPO Patch.esp
+JKs Bannered Mare - Immersion Patch.esp
+*Cloaks - Dawnguard.esp
+*Faction Crossbows.esp
+*mihailmmasithis.esp
+*JKs Understone Keep - Skyrim Underground Patch.esp
+*JKs Temple of Dibella - ELFX Patch.esp
+*Missives - Solstheim.esp
+*Noct_LostRelicsOfTamriel.esp
+*DBM_DepthsofSkyrim_Patch.esp
+*Triumvirate - Mysticism Compatibility Patch.esp
+*RabbitHole.esp
+*Ryn's Lost Tongue Pass.esp
+*Ryn's Sea Shore Foothills.esp
+*mihailashgolem.esp
+*LoS II - USSEP patch.esp
+*Ryn's Karth River Forest.esp
+*Ryn's Lone Mountain.esp
+*Ryn's Robber's Gorge Bluffs.esp
+*Ryn's Yorgrim Resurrection.esp
+*Ryn's Autumnwatch Woods.esp
+JKs Pawned Prawn - LOTD Patch.esp
+*ogEmperorCrab.esp
+*Unmarked Locations Pack - Fixes.esp
+*Landscape and Water Fixes - Patch - Alternative Armors - Elven Hunter.esp
+*RosaFollower.esp
+*Ryn's Karthspire Bluffs.esp
+*ForgottenMagic_Redone.esp
+DBM_JKBannered_Patch.esp
+DBM_JKBelethor_Patch.esp
+eldenrimSpecialstagger.esp
+JKs Angelines Aromatics - USSEP Patch.esp
+JKs College of Winterhold - USSEP patch.esp
+JKs College of Winterhold - Cloaks Patch.esp
+JKs College of Winterhold - CC - Goldbrand Patch.esp
+JKs Sadris Used Wares - Rugnarok patch.esp
+JKs Sadris Used Wares - ELFX patch.esp
+JKs Sadris Used Wares - LOTD Patch.esp
+JKs Sinderions Field Laboratory - Alternate Start patch.esp
+JKs Temple of Kynareth - ELFX Patch.esp
+JKs Temple of Kynareth - Oblivion Artifacts patch.esp
+JKs Temple of Talos - ELFX Patch.esp
+JKs Temple of Talos - USSEP patch.esp
+JKs Temple of Talos - Cloaks of Skyrim patch.esp
+JKs Temple of Talos - Oblivion Artifacts patch.esp
+JKs White Phial - ELFX Patch.esp
+JKs White Phial - Rugnarok patch.esp
+JKs White Phial - SPO Patch.esp
+RoM - WACCF Patch.esp
+*DUT Ancient Heroes.esp
+*GildFlail.esp
+*JKs Bee and Barb - Skyrim Underground - Brotherhood of Old Patch.esp
+*Elemental_Staffs.esp
+*Apocalypse - Magic of Skyrim.esp
+*JKs Ragged Flagon - ELFX Patch.esp
+*JKs Ragged Flagon - USSEP Patch.esp
+*Dirt and Blood - Dynamic Visuals.esp
+*JKs Blue Palace - A Cats Life patch.esp
+*Container Loot Integration - Master File.esp
+*LockRelatedLoot.esp
+*DynamicDungeonLoot.esp
+*Container Loot Integration - DDL LRL LOTD.esp
+*Container Loot Integration - LOTD COIN.esp
+*Container Loot Integration - DDL LRL.esp
+*Elden Power Attack.esp
+*Daedric Bitches.esp
+*RBS_Prepare_for_boat.esp
+*Container Loot Integration - LOTD Mysticism.esp
+*Container Loot Integration - LOTD Sorcerer.esp
+*Container Loot Integration - USSEP Mysticism.esp
+*Deadly Dragons - Diverse Dragons Collection.esp
+*Deadly Dragons - Main Towns Not Safe Zones.esp
+*Deadly Dragons - Safezone CC Bittercup.esp
+*DistantDragonRoars.esp
+*Deadly Dragons - Safezone CC Dead Man's Dread.esp
+*Deadly Dragons - Safezone CC The Cause.esp
+*Deadly Dragons - Wyrmstooth.esp
+*DeadlySpellImpacts.esp
+*DisenchantingLuJoSoft.esp
+*DialogueHistory.esp
+*DarkWitch.esp
+*1Daedric Crescent by 4thUnknown.esp
+*ControlledCasting.esp
+*DragonCleaver.esp
+*JKs Sky Haven Temple - LOTD Patch.esp
+*JKs Sky Haven Temple - IA Patch.esp
+*World Eater's Influence.esp
+*WICourierRadiant.esp
+*war scythe.esp
+*DragonsUseThuum - Deadly Dragons Patch.esp
+*Dynamic Activation Key.esp
+*Dungeon Quests are not Miscellaneous.esp
+*Helen_Aela_replacer.esp
+*Helen_follower.esp
+*UniqueDragonPriests_XB.esp
+*DragonPriestHoodVariants.esp
+*DragonPriestHoodVariantsCCNecromancer.esp
+*DragonPriestHoodVariantsWyrmstooth.esp
+*DragonPriestHoodVariantsWyrmstoothCCNecromancer.esp
+*DragonsFallDown.esp
+*DragonsUseThuum - Diverse Dragons Patch.esp
+*Andromeda - Unique Standing Stones of Skyrim.esp
+*NoCameraFilters.esp
+*dD - Enhanced Blood Main.esp
+*Dynamic Impact - Slash Effects X.esp
+*Dynamic Impact - Slash Effects X-01EBT.esp
+*Dynamic Things Alternative.esp
+*evgCLAMBER.esp
+*Elephant'sScriptLatencyTester.esp
+*Stronger Bosses Overhaul.esp
+*High Level Enemies Redux - Encounter Zone Max Level Tweaks.esp
+*HonedMetal.esp
+*LokiHorses.esp
+*RealisticRegeneration.esp
+*AMatterOfTime.esp
+*BetterQuestObjectives - Wintersun Patch.esp
+*Gildergreen Is Really Thicc HD.esp
+*TBoO & SS Patch.esp
+*BarenziahQuestMarkers.esp
+*Nyr_ArmorRatingOverhaul_full.esp
+*Apothecary - Fishing Patch.esp
+*018InigoBanterPatch.esp
+*[Odd] Battle Bunny Akali.esp
+*DSerArcheryGameplayOverhaul.esp
+*BetterArgonianHorns.esp
+*Children of the Hist.esp
+*Apothecary - Rare Curios Patch.esp
+*GargoyleBlood.esp
+*Ambient Warfare.esp
+*HiddenEffects.esp
+*HiddenEffects_Campfire.esp
+*YOT - Dirt and Blood.esp
+*HiddenEffects_DirtAndBlood.esp
+*YOT - Andromeda.esp
+*HiddenEffects_StoneAndromeda.esp
+*YOT - Wintersun.esp
+*HiddenEffects_Wintersun.esp
+*BarbarianPaints.esp
+*Apothecary - Bruma Patch.esp
+*50 More Perk Points.esp
+*SIC CClub Nixhound Patch.esp
+*SIC CClub Saints & Seducer Integration.esp
+*AIMFIX.esp
+*betterdragonmelee.esp
+*infiniteCharge.esp
+*Nicos Twinblades.esp
+*JKs Sky Haven Temple - USSEP Patch.esp
+*DBM_RBB_Patch.esp
+*WayshrinesIFT - Landscape and Water Fixes patch.esp
+*FGCScytheOfTheCrowMother1.esp
+*Landscape and Water Fixes - Patch - Hendraheim.esp
+*mihailtoxindoctoroutfit.esp
+*Apocalypse - Cheat Chests.esp
+*Dr_Bandolier.esp
+*SOM.esp
+*VioLens SE.esp
+*Attack_DXP.esp
+*Apothecary - Wyrmstooth Patch.esp
+*Apothecary - Saints & Seducers Patch.esp
+*Bandit Lines Expansion.esp
+*BOOBIES_ImmersiveIcons.esp
+*AutoHideAmmo.esp
+*configurable_perks_per_level.esp
+*DBM_DDL_Patch.esp
+*Container Loot Integration - DDL LRL COIN.esp
+*Bandit War - Bruma.esp
+*BluthundSword.esp
+*BattleScythe.esp
+*BS_Campfire.esp
+*Beyond Skyrim - Bruma - Guard Cloaks.esp
+*Bruma - Violens Patch.esp
+*Bruma - iNeed Patch.esp
+*MLU_Bruma.esp
+*Bears of the North.esp
+*Immersive Bears of the North Patch.esp
+*BetterThirdPersonSelection.esp
+*Blackened Steel Armor and weapon set.esp
+*BlackreachEerieAmbience.esp
+*C.O.I.N. - Saints and Seducers Patch.esp
+*C.O.I.N. - The Cause Patch.esp
+*C.O.I.N. - Beyond Skyrim Patch.esp
+*Bruma Bears of the North Patch.esp
+*Battle Scythe Rebalance.esp
+*Book Of Shadows.esp
+*Cheat Room.esp
+*cheat room edit.esp
+*CRB Auri Lenka Replacer.esp
+*Cassandra Frost Witch.esp
+*CFTO_fix.esp
+*CBBE.esp
+*Chanterelle_ConvenientHorse_Patch.esp
+*Cloaks - USSEP Patch.esp
+*ClassicScythe_eng.esp
+*Civil War Lines Expansion.esp
+*ExperienceMultipliers.esp
+*Faster Werewolf.esp
+*[FB] Sentinel Knight.esp
+*Falskaar - Bruma Patch.esp
+*Falskaar - iNeed Patch.esp
+*Fish Anywhere.esp
+*Echolocating Falmer.esp
+*BetterQuestObjectives - IWE Patch.esp
+*BetterQuestObjectives - LOTD Patch.esp
+*BetterQuestObjectives-PaarDilemmaPatch.esp
+*EBT - IC PATCH.esp
+*FSMPM - The FSMP MCM.esp
+*Ember_Iona_replacer.esp
+*Ember_follower.esp
+*Stellaris.esp
+*Flames of Coldharbour.esp
+*MCM for FWMF.esp
+*RW2 - Patch - Marked Old Map.esp
+*FreaReplacer.esp
+*FormList-Patch-Collection_ITMs.esp
+*FormList-Patch-Collection_MLU.esp
+*[Dint999] Fogotten Princess Set.esp
+*Followers Don't Draw Weapons.esp
+*Genuine Giants.esp
+*MihailPaintedCowFluffy.esp
+*GDOS - Splendid Mechanized Dwemer Door.esp
+*Gotobed.esp
+*GoTDragonsEnemy.esp
+*Immersive Equipping Animations.esp
+*Werewolf Footstep FX.esp
+*LoS II - Bruma patch.esp
+*JKs Temple of Mara - ELFX Patch.esp
+*Bandit War - Tamrielic Distribution.esp
+*MCMHelper.esp
+*Innocence Lost QE - USSEP Patch.esp
+*I4IconAddon.esp
+*ImmersiveInteractions.esp
+*Immersive Speechcraft.esp
+*JKs Bards College - USSEP patch.esp
+*JKs Bards College - LOTD patch.esp
+*JKs Fort Dawnguard - A Dogs Life patch.esp
+*JKs Fort Dawnguard - WACCF patch.esp
+*JKs Fort Dawnguard - Cloaks of Dawnguard patch.esp
+*JKs Fort Dawnguard - RDO patch.esp
+*JKs Fort Dawnguard - SDA patch.esp
+*JKs Castle Dour - LOTD patch.esp
+*JKs Castle Dour - USSEP patch.esp
+*JKs Bards College - ELFX Exteriors Patch.esp
+*JKs Blue Palace - LoS II Patch.esp
+*JKs Bards College - Immersive Encounters patch.esp
+*JKs Bards College - Oblivion Artifacts patch.esp
+*JKs Castle Dour - Cloaks of Skyrim patch.esp
+*EllaLucienReplacer.esp
+*Lucien-Bruma-Patch.esp
+*Lucien-MoonandStar-Patch.esp
+*Lucien-AnniversaryEdition-Patch.esp
+*Lollygagging Fashions.esp
+*Lollygagging Fashions WACCF.esp
+*know_your_enemy_2_armors.esp
+*GildRiven5Tier.esp
+*b_sleep.esp
+*KatanaCrafting.esp
+*KatanaCrafting_WACCF_Patch.esp
+*JS Unique Utopia SE - Rings - Standalone.esp
+*KS Hairdo's.esp
+*Karin_Uthgerd_replacer.esp
+*Karin_follower.esp
+*Rings2Hands.esp
+*LeftHandRings.esp
+*Leveling Freedom.esp
+*JKs Dragonsreach - A Cats Life patch.esp
+*JKs Drunken Huntsman - ELFX Patch.esp
+*JKs Drunken Huntsman - Civil War Champions Patch.esp
+*JKs Arnleif and Sons - LOTD Patch.esp
+*JKs Arnleif and Sons - Rugnarok patch.esp
+*JKs Arnleif and Sons - SPO Patch.esp
+*JKs Bee and Barb - ELFX patch.esp
+*JKs Bits and Pieces - Rugnarok patch.esp
+*JKs Bits and Pieces - ELFX Patch.esp
+*JKs Bits and Pieces - LOTD Patch.esp
+*JKs Bits and Pieces - USSEP Patch.esp
+*JKs Blue Palace - Immersion Patch.esp
+*JKs Dragonsreach - Relationship Dialogue Overhaul Patch.esp
+*JKs Drunken Huntsman - USSEP Patch.esp
+*JKs Pawned Prawn - SPO Patch.esp
+*JKs Radiant Raiment - USSEP Patch.esp
+*JKs Radiant Raiment - Immersion Patch.esp
+*JKs Radiant Raiment - Cloaks Patch.esp
+*JKs Riverwood Trader - Rugnarok patch.esp
+*JKs Septimus Signus Outpost - ELFX Patch.esp
+*JKs Septimus Signus Outpost - LOTD Patch.esp
+*JKs Septimus Signus Outpost - SIC Patch.esp
+*JKs Silver-Blood Inn - ELFX patch.esp
+*JKs Silver-Blood Inn - Spell Knight Armor Patch.esp
+*JKs Silver-Blood Inn - LOTD Patch.esp
+*JKs Silver-Blood Inn - Alt Dwarven Plate Patch.esp
+*JKs Silver-Blood Inn - The Brotherhood of Old Patch.esp
+*JKs Sinderions Field Laboratory - LOTD patch.esp
+*JKs Sleeping Giant Inn - SPO Patch.esp
+*JKs Temple of Dibella - Oblivion Artifact Pack Patch.esp
+*JKs Temple of Dibella - SPO Patch.esp
+*Landscape and Water Fixes - Patch - ELFX.esp
+*JKs Temple of Mara - Rugnarok patch.esp
+*JKs Temple of Mara - SPO Patch.esp
+*JKs Temple of Mara - TBoO Patch.esp
+*JKs Temple of Mara - Oblivion Artifacts Patch.esp
+*DBM_CoSRetexture_Patch.esp
+*DBM_ELFX_Patch.esp
+*DBM_IA_Patch.esp
+*DBM_ForgottenCity_Patch.esp
+*DBM_JKDragonsreach_Patch.esp
+*DBM_JKDrunken_Patch.esp
+*JKs Warmaidens - ELFX patch.esp
+*DBM_JKWarmaidens_Patch.esp
+*DBM_OBIS_Patch.esp
+*League of Assassins Armor.esp
+*WadeInWater.esp
+*JKs Temple of the Divines - SPO patch.esp
+*JKs Temple of the Divines - LOTD patch.esp
+*JKs Temple of the Divines - After the Civil War patch.esp
+*JKs Temple of the Divines - Rugnarok patch.esp
+*JKs Temple of the Divines - USSEP Patch.esp
+*JKs Temple of the Divines - Alt Leather Armor Patch.esp
+*JKs Temple of the Divines - Oblivion Artifacts patch.esp
+*JKs Understone Keep - ELFX Fixes Patch.esp
+*JKs Understone Keep - USSEP patch.esp
+*JKs Winking Skeever - Alternate Start Mods Patch.esp
+*JKs Winking Skeever - ELFX Fixes Patch.esp
+*JKs Winking Skeever - USSEP Patch.esp
+*JKs Winking Skeever - Fishing Patch.esp
+*JKs Winking Skeever - SPO patch.esp
+*JKs Winking Skeever - Immersion Patch.esp
+*JKs Winking Skeever - Brotherhood of Old Patch.esp
+*DBM_VAE2_Patch.esp
+*Trueblood Serana.esp
+*UniqueDovahkiin.esp
+*UnreadBooksGlow.esp
+*Volkihar Knight.esp
+*Tamrielic Distribution - BS Wares of Tamriel.esp
+*TradeRoutes-Patch-LegacyoftheDragonborn.esp
+*TownPortal.esp
+*TradeRoutes-Patch-Falskaar.esp
+*TradeRoutes-Patch-ImmersivePatrols.esp
+*_Fuse00_ArmorTravelingMageLArmor.esp
+*TrueDirectionalMovement.esp
+*WoodenStake.esp
+*VAE2-Summermyst.esp
+*Vibrant weapons EAE.esp
+*ValmiliaLydiaReplacer.esp
+*ValhallaCombat.esp
+*Vigilant Voiced.esp
+*Vampire Lines Expansion.esp
+*Unmarked Locations Pack - Sovngarde.esp
+*Unmasking Sybille.esp
+*UntarnishedUI_Subtitle.esp
+*Unmarked Locations Pack - Forgotten Vale.esp
+*Use Those Blankets.esp
+*UnicornSteedOfHircine.esp
+*Twilight Princess Armor.esp
+*Twilight Princess Armor - Alt Textures and Cloth Addon.esp
+*YaldabaothArmor.esp
+*WetandCold.esp
+*Your mom.esp
+*[full_inu] Armor Pack 01.esp
+*[full_inu] Armor Pack 02.esp
+*Wintersun - SIC Patch.esp
+*WaitYourTurn.esp
+*Voidgate.esp
+*WA_BathWidget.esp
+*WaitCarriageInns.esp
+*ksws03.esp
+*WildwoodEchoes.esp
+*YourMarketStall.esp
+*WayshrinesIFTWyrmstooth.esp
+*Wyrmstooth Paper Map for FWMF by Limon.esp
+*YOT - Falskaar.esp
+*YOT - Farming.esp
+*YOT - Fishing.esp
+*YOT - Forgotten Seasons.esp
+*YOT - GOTT.esp
+*YOT - Gallows Hall.esp
+*YOT - Gray Fox.esp
+*YOT - Grimoire.esp
+*YOT - Hendhraheim.esp
+*YOT - KOTN.esp
+*YOT - LOTD.esp
+*YOT - Myrwatch.esp
+*YOT - Nix Hound.esp
+*YOT - Pets of Skyrim.esp
+*YOT - Project AHO.esp
+*YOT - SWIFT.esp
+*YOT - Saints & Seducers.esp
+*YOT - Shadowfoot.esp
+*YOT - Shadowrend.esp
+*YOT - Summermyst.esp
+*YOT - The Cause.esp
+*YOT - The Contest.esp
+*YOT - Tundra Homestead.esp
+*YOT - Umbra.esp
+*YOT - Vigil Enforcer Armor Set.esp
+*YOT - Vigilant.esp
+*YOT - Wet and Cold.esp
+*YOT - Wild Horses.esp
+*YOT - Wraithguard.esp
+*YOT - Wyrmstooth.esp
+*YOT - Bloodchill Manor.esp
+*YOT - Bone Wolf.esp
+*YOT - Bruma.esp
+*YOT - Camping.esp
+*YOT - Civil War Champions.esp
+*YOT - Convenient Horses.esp
+*WhalesOffTheCoast.esp
+*Whiterun Has Walls  - Less Clutter.esp
+*RaceMenu.esp
+*XPMSE.esp
+*Moonlight Tales Mini.esp
+*DF - Official Creature Pack.esp
+*SPOAsilverknight.esp
+*SetHome.esp
+*SetHomeAuriBugFix.esp
+*SetHomeLucienConsistency.esp
+*SilverHandArmored.esp
+*SilverHandArmored-SPOA.esp
+*SilverHandArmored-AVExpansion.esp
+*SilverHandArmored-Crossbows.esp
+*SilverHandArmored-IA.esp
+*Simplicity of Snow - BSBruma Patch.esp
+*Simplicity of Snow - Dwemer Sanctuary Patch.esp
+*Simplicity of Snow.esp
+*jks skyrim tree fix.esp
+*Dragonborns Bestiary.esp
+*MagicIsNotForEveryone.esp
+*Elemental_Staffs_Patch_Mysticism.esp
+*NPC Knockout Overhaul.esp
+*NPCs Take Cover.esp
+*MurderOfSongbirds.esp
+*Missives - Carriage and Ferry Travel Overhaul Patch.esp
+*marrymeserana.esp
+*Oblivion Gates Remade - 1st Person Messages.esp
+*Oblivion Gates Remade - Map Markers.esp
+*Pick Up Radius.esp
+*Phenderix Magic World - Leveled Lists Add-On.esp
+*Obsidian Weathers for Vigilant.esp
+*loki_POISE.esp
+*Infiltration QE - Bandit War Patch.esp
+*OHCF - Faction Crossbows Bolts Patch.esp
+*OHCF - Silver Bolts Patch.esp
+*dD-No Spinning Death Animation.esp
+*OneHand_Crossbow_Framework - Rare Curious Patch.esp
+*NPCmagefix.esp
+*hz_NonExploitableCrossbowReload.esp
+*Nordic Winds.esp
+*No PC Fall Damage.esp
+*Sidequests of Skyrim.esp
+*Scimitar - Tweaks and Patches.esp
+*scythe keyword.esp
+*Scimitar - BS Bruma Patch.esp
+*Scimitar - Better Together Vanilla and BSW.esp
+*Scimitar - Ghosts of the Tribunal Patch.esp
+*Scimitar - Immersive Weapons Patch.esp
+*Scimitar - Redguard Elite Armaments.esp
+*Scimitar - The Gray Cowl of Nocturnal Patch.esp
+*SaviorsHideReplacer.esp
+*WayshrinesIFTBSBruma.esp
+*WayshrinesIFTBeyondReach.esp
+*WayshrinesIFTDarkend.esp
+*WayshrinesIFTFalskaar.esp
+*WayshrinesIFTGrayCowl.esp
+*ShowPlayerInMenus.esp
+*Shout.esp
+*SofiaImmersiveNakednessRecognition.esp
+*SDA_SpellToggleExtendedV2.esp
+*Silver Bolts - Immersive Patrols II.esp
+*SimpleItemSpawner.esp
+*WerewolfQuickMenu.esp
+*Skoglendi - A Grass Mod.esp
+*Skyland Watercolor - Slow Green-Vanilla.esp
+*Skyrim is Cold - SPID.esp
+*SkyrimConfigurationMenu.esp
+*Skoglendi - Denser Tundra.esp
+*Skoglendi - Tweaked Solstheim.esp
+*Landscape and Water Fixes - Patch - LoS II.esp
+*DHSpell.esp
+*SimplyBalanced.esp
+*SkyTweak.esp
+*Sleep to Level Up.esp
+*Snazzy_Inigo_Items.esp
+*SunAffectsNPCVampires.esp
+*SmoothCam.esp
+*Sleeping Expanded.esp
+*SpellResearchUI.esp
+*Kai_Research-Mysticism_Patch.esp
+*suspiciouscityguards.esp
+*DragonCombatDialogue.esp
+*SunAffectsNPCVampires - ExcludeFriendlies.esp
+*Skyshards.esp
+*Spell Research - Even More Patches.esp
+*SpellResearchSynthesizer.esp
+*Spell Research JSON Patch.esp
+*StaticSkillLeveling.esp
+*[ELLE] Tavern Maid.esp
+*TheEyesOfBeauty.esp
+*Tamrielic Distribution - Wyrmstooth.esp
+*The Whispering Door QE - USSEP Patch.esp
+*TimingIsEverything.esp
+*Tamrielic Distribution - Rare Curios.esp
+*Tamrielic Distribution - Netch Leather Armor.esp
+*Tamrielic Distribution - AA Iron.esp
+*Tamrielic Distribution - AA Ebony Plate.esp
+*Tamrielic Distribution - AA Elven Hunter.esp
+*Tamrielic Distribution - AA Steel Soldier.esp
+*Tamrielic Distribution - AA Silver.esp
+*Tamrielic Distribution - AA Leather.esp
+*Stress and Fear.esp
+*TownPortal_Mysticism.esp
+*ExpertPierce.esp
+*ExpertPierce - MysticismMagic Patch.esp
+*pick_your_poison.esp
+*Polymorphing.esp
+*PracticeSoulGemsNoPerks.esp
+*Precision.esp
+*Reaper Scythes.esp
+*RaceMenuHH.esp
+*run for your lives.esp
+*RUSTIC SOULGEMS - Sorted.esp
+*RevengeOfTheIronDaggers.esp
+*RichMerchantsSkyrim_x5.esp
+*ReadTheRoom.esp
+*Regen.esp
+*Realistic AI Detection 3 - Lite.esp
+*RSP-GuildStarter.esp
+*RaceMenuPlugin.esp
+*SDA CC Umbra Patch.esp
+*SDA Wintersun Patch.esp
+*SDA RDO Patch.esp
+*scar-adxp-patch.esp
+*DBM_SMIM_Patch.esp
+*DBM_UnreadBooksGlow_Patch.esp
+*DBM_VolkiharKnight_Patch.esp
+*Keytrace.esp
+*CC-Fishing_WACCF_Patch.esp
+*CC-NecromanticGrimoire_WACCF_Patch.esp
+*Cloaks_WACCF_Patch.esp
+*Hothtrooper44_ArmorCompilation_WACCF_Patch.esp
+*AHZmoreHUD.esp
+*SIC WACCF Patch.esp
+*YOT - Beyond Reach.esp
+*YOT - CWRepairs.esp
+*YOT - Dawnfang and Duskfang.esp
+*mihailhelhest.esp
+FNIS.esp
+*Eli_Breezehome.esp
+Eli_Breezehome [ADDON - Aquarium Addon (FishingCC)].esp
+*YOT - Eli Breezehome.esp
+*Eli_Breezehome [ADDON - Sorcerer Staff Scroll Overhaul].esp
+Eli_Breezehome [ADDON - CC Armoury Expansion].esp
+*Eli_Breezehome [ADDON - ELFX-FX].esp
+Eli_Breezehome [PATCH - USSEP].esp
+*LoS II - Eli's Breezehome patch.esp
+*Imperious - Races of Skyrim.esp
+*AKA_LeftHandRings_Patch.esp
+*YOT - Imperious.esp
+*MLU.esp
+JKs College of Winterhold - MLU Patch.esp
+*MLU - AE.esp
+*Helgen Reborn.esp
+*DBM_MorrowlootUltimate_Patch.esp
+*ZIA_Complete Pack.esp
+JKs White Phial - Zims Immersive Artifacts Patch.esp
+*MLU 2.0a DBM Patch.esp
+*MLU - ZIA.esp
+*ZimsImmersiveArtifacts_WACCF_Patch.esp
+ScopedBows_MLU Patch.esp
+*DBM_HelgenReborn_Patch.esp
+*MLU - Inigo.esp
+*TradeRoutes-Patch-HelgenReborn.esp
+*Container Loot Integration - DDL LRL MLU.esp
+*TradeRoutes-Patch-MLU.esp
+*Wintersun - ZIA Patch.esp
+*Growl - Werebeasts of Skyrim.esp
+*growltweak.esp
+*Container Loot Integration - LOTD MLU.esp
+*MLU - Summermyst 2.0.esp
+*MLU - JK's The Drunken Hunstman.esp
+*JKs Sky Haven Temple - MLU Patch.esp
+*LoS II - HelgenReborn patch.esp
+*JKs Bee and Barb - Helgen Reborn Patch.esp
+*JKs Septimus Signus Outpost - MLU Patch.esp
+*SIC - MLU Integration.esp
+*DBM_ZimsThaneWeapons_Patch.esp
+*DBM_ZimsImmersiveArtifacts_Patch.esp
+*YOT - Helgen Reborn.esp
+*Trade & Barter.esp
+*DBM_TradeBarter_Patch.esp
+*TradeRoutes-Patch-TradeAndBarter.esp
+*Ordinator - Perks of Skyrim.esp
+*Apocalypse - Ordinator Compatibility Patch.esp
+*Nyr_ARO_full-ORD_patch.esp
+*YOT - Ordinator.esp
+*HiddenEffects_Ordinator.esp
+*Forgotten Magic - Ordinator Compatibility Patch - Restoration Tweak.esp
+*Ordinator - Beyond Skyrim Bruma Patch.esp
+*MysticOrdinator.esp
+*OrdinatorExperiencePatch.esp
+*Static Skill Ordinator Patch.esp
+*Ordinator_WACCF_Patch.esp
+*YOT - Apocalypse.esp
+*Better Vampires.esp
+*RealisticWaterTwo.esp
+*JKs Ragged Flagon - RW2 Patch.esp
+*RealisticWaterTwo - Beyond Reach.esp
+*RealisticWaterTwo - Beyond Skyrim Bruma.esp
+*RealisticWaterTwo - Falskaar.esp
+*RealisticWaterTwo - Myrwatch Patch.esp
+*RealisticWaterTwo - Waves - Falskaar.esp
+*RealisticWaterTwo - Waves - Wyrmstooth.esp
+*RealisticWaterTwo - Alt Volcanic Watercolor.esp
+*ELFXEnhancer.esp
+JKs College of Winterhold - ELFX Enhancer Patch.esp
+*ELFX Fixes Ragged Flagon Fix.esp
+*JKs Bards College - ELFX Enhancer Patch.esp
+*JKs Blue Palace - ELFX Enhancer Patch.esp
+*JKs Dragonsreach - ELFX Enhancer Patch.esp
+*JKs Understone Keep - ELFX Enhancer Patch.esp
+*RAO - ELFX Patch.esp
+*Atlas Map Markers.esp
+*A Clear Map of Skyrim.esp
+ACMOS - Midwood Isle.esp
+*ACMOS - Beyond Reach.esp
+*ACMOS - Bruma.esp
+*ACMOS - Falskaar.esp
+*ACMOS - Vominheim.esp
+*ACMOS - Wyrmstooth.esp
+*Solstheim Map by Duncan for FWMF.esp
+*Beyond Bruma for FWMF.esp
+*Falskaar Map by Duncan for FWMF.esp
+*GCoN by Duncan for FWMF.esp
+*FWMF Marked Old Map.esp
+*Wyrmstooth for FWMF.esp
+*Bashed Patch, 0.esp
